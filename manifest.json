@@ -1,0 +1,21 @@
+{
+    "name" : " elearning",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description" : "elearning dark mode, more functions will be added eventually",
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "content_scripts" : [
+        {
+            "matches" : ["*://elearning.ua.pt/*"],
+            "css":["elearning.css"],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": ["*://paco.ua.pt/*"],
+            "css":["paco.css"],
+            "run_at": "document_idle"
+        }
+    ]
+}

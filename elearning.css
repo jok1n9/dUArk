@@ -1,0 +1,177 @@
+ html body{
+    background-color: #1c1c1c !important
+}
+div.no-overflow, .yui3-datatable{
+    display: none !important 
+}
+#adaptable-page-header-wrapper{
+    background-color: #1c1c1c !important
+}
+#region-main {
+    background-color:#1c1c1c !important
+}
+#above-header{
+    background-color: #000 !important;
+    color: #fff8f8 !important
+        
+}
+.dropdown-item{
+    background-color: #414642 !important
+}
+.modal-content{
+    color: #fff !important
+}
+h5, h2{
+    color: #fff !important;
+}
+.d-flex {
+    color:white 
+}
+.collapse.navbar-collapse{
+    color: #eadbdb
+}
+#container{
+    background-color:#1c1c1c
+}
+.modal-dialog .modal-content{
+     background-color: #1c1e1c!important
+}
+.path-mod div.activity-information{
+    color:white !important;
+   
+}
+.list-unstyled{
+    color: white !important
+}
+.block{
+    padding:0rem !important;
+}
+[class^="block-side-"] .card-body, .block{
+    background-color: #869189 !important;
+}
+.block>.content, #dockeditempanel .dockeditempanel_bd{
+    background-color: #242826 !important;
+    color: #8a8383 !important;
+}
+.block .header, #dockeditempanel .dockeditempanel_hd{
+    background-color: #7a8c80 !important;
+    
+}
+#adaptable-page-header-wrapper #main-navbar {
+    background-color: #818c84 !important;
+    border-bottom: 3px solid #818a84 !important;
+}
+#page-navbar{
+    display:none !important
+}
+.breadcrumb{
+    background-color: #414642 !important;
+    color: #000 !important;
+
+}
+.word-break{
+    color:#fbf9f9 !important;
+    background-color: #7e8480 !important;
+
+}
+.headersearch .btn-open{
+    background-color: #949d97 !important;
+    
+}
+[data-region=right-hand-drawer].drawer{
+    color: #fff !important
+}
+
+.dropdown-divider{
+    margin:0px !important;
+    border-top:0 !important;
+    
+}
+
+.content-item-container.unread {
+    background-color: #343a40 !important;
+}
+.popover-region-container{
+    background-color: #171616 !important;
+    color: #fff !important;
+    border:0px !important;
+    border-bottom: 0px !important
+}
+.content-item-container {
+    border-bottom: 1px !important;
+    border-bottom-color: #000 !important;
+}
+.popover-region-header-text{
+    color:#fff !important
+}
+.popover-region-footer-container{
+    background-color: #171616 !important;
+    border-top: 0px !important;
+    padding-top: 0px !important;
+}
+.popover-region-header-container{
+    border-bottom:0px;
+}
+.dropdown-menu{
+    padding: 0 !important
+}
+.list-group-item{
+    background-color:#495057 !important
+}
+.bg-white{
+    background-color:#32373c !important
+   
+}
+.form-control{
+    background-color:#0a0a0b !important;
+    color: #fff !important
+}
+.card{
+    background-color: #343a40 !important;
+}
+.btn{
+     background-color: #343a40 !important;
+}
+.message-app{
+    background-color: #535960 !important;
+
+}
+#adaptable-page-header-wrapper #above-header .langdesc, #adaptable-page-header-wrapper #above-header .linksdesc, #adaptable-page-header-wrapper #header2 .langdesc, #adaptable-page-header-wrapper #header2 .linksdesc{
+    color: #afafaf !important;
+}
+.block{
+    padding: .0rem;
+}
+a, a:visited, .tabtree .tabrow0 li a {
+    color: #fffdfd !important
+}
+.block_navigation .block_tree .tree_item.branch {
+    color: #636c65 !important;
+}
+h1, h3, h4, h6{
+    color: #2b2525 
+}
+.span{
+    color: #fff !important
+}
+#adaptable-page-header-wrapper #above-header .dropdown-toggle a, #adaptable-page-header-wrapper #above-header .dropdown-menu a, #adaptable-page-header-wrapper #header2 .dropdown-menu a, #adaptable-page-header-wrapper #header2 .dropdown-toggle a, #adaptable-page-header-wrapper #header2 .popover-region-container{
+    background-color: #343a40 !important;
+
+}
+.sectionname {
+    background-color: #343a40 !important;
+    color: #fff !important;
+
+}
+#sitetitle, #sitetitle a, #sitetitle p, #sitetitle h1, #sitetitle h2, #sitetitle h3, #sitetitle h4, #sitetitle h5, #sitetitle h6{
+    color:#fff !important;
+}
+#page .course-content ul li.section.main {
+    margin-bottom: 0px !important ;
+    border: 0px !important;
+    background-color: #242826 !important;
+
+}
+.course-content ul.topics li.section .content, .course-content ul.weeks li.section .content{
+    background-color: #242826 !important;
+}
